@@ -1,4 +1,4 @@
-# ECE657A - Winter 2024 - Data Cleaning and Dimensionality Reduction
+#2024 - Data Cleaning and Dimensionality Reduction
 ### Contributors
 
 - Prahar Ijner
