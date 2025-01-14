@@ -1,4 +1,4 @@
-# 2024 - Data Cleaning and Dimensionality Reduction
+# Project 1 - Data Cleaning and Dimensionality Reduction
 ### Contributors
 
 - Prahar Ijner
