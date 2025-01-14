@@ -1,10 +1,13 @@
-# Project 3
+# Project 3: Neural Networks and Fuzzy!
 
 ## Contributors
 
 - Chikodili
 - Billy
 - Praher
+
+The packages required to run the code files can be found in `requirements.txt`
+
 
 ## Objective 
 To gain experience on the use of Neural Networks and Fuzzy Inference Systems.
